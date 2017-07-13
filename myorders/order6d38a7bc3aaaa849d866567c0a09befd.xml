@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<Customer>
+    <Name>Soumit</Name>
+    <Phone>1234</Phone>
+    <Email>soumit@gmail.com</Email>
+    <Address>KUET</Address>
+    <City>Khulna</City>
+    <Zip>9200</Zip>
+    <Country>Bangladesh</Country>
+</Customer>
